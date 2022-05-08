@@ -1,4 +1,4 @@
-# SushiSwap Logo
+# WireSwap Logo
 
 ## Requirements
 
